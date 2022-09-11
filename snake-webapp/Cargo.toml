@@ -1,0 +1,12 @@
+[package]
+name = "snake-webapp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+snake-core = { path = "../snake-core"}
+
+actix-web = "^4"
+actix-settings = "0.6.0"
+tokio = { version = "1", features = ["full"] }
+rand = "0.8.5"
