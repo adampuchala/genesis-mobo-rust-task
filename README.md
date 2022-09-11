@@ -13,11 +13,11 @@ The algorithm of next move selection is implemented in this crate.
 - Cargo
   
 ## Installation:
-Execute `cargo run` command in project subdirectory: `snake-webapp`
+Execute `cargo run` command in project subdirectory `snake-webapp`.
 
 ## Tests:
-- Web app: Execute `cargo test` command in project subdirectory `snake-webapp`
-- Snake game Core:
+- Web app: Execute `cargo test` command in project subdirectory `snake-webapp`.
+- Snake core: Execute `cargo test` command in project subdirectory `snake-code`.
 
 ## Other info:
 Development toolchain version: 
