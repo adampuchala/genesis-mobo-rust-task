@@ -12,8 +12,12 @@ The algorithm of next move selection is implemented in this crate.
 - Rust toolchain version 1.62.1
 - Cargo
   
-## Installation:
+## Installation and run:
 Execute `cargo run` command in project subdirectory `snake-webapp`.
+The server is listening on `http://localhost:8080` by default.
+
+## Configuration:
+`actix-web` server configuration file location is `snake-webapp/Configuration.toml`.
 
 ## Tests:
 - Web app: Execute `cargo test` command in project subdirectory `snake-webapp`.
