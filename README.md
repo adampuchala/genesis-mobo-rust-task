@@ -8,7 +8,7 @@ The `snake-core` crate is an implementation of snake game.
 The `snake-webapp` crate is an implementation of snake game web api. 
 The algorithm of next move selection is implemented in this crate.
 
-## Prerequisities:
+## Prerequisites:
 - Rust toolchain version 1.62.1
 - Cargo
   
